@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "66d47aefc652e716c9f89926"
+  },
+  "title": "Special Chicken Cheese Burge",
+  "image_path": "populardish1.jpg",
+  "price": 1000,
+  "description": "Indulge in a cheesy delight! Our special cheese chicken burger features a crispy, juicy chicken patty topped with a generous layer of melted cheese. The combination of flavors and textures is truly satisfying. Perfect for a quick and delicious meal.",
+  "quantity": 50,
+  "category": "Dishes",
+  "popular": true
+},
+{
+  "_id": {
+    "$oid": "66d58d4269b2bab7655aa9f8"
+  },
+  "title": "Cuisine Special Mix Rice",
+  "image_path": "populardish2.jpg",
+  "price": 1500,
+  "description": "Experience a flavor explosion with our Cuisine Special Mix Rice! This tantalizing dish features a harmonious blend of fragrant rice, savory meats, and vibrant vegetables, all cooked to perfection.",
+  "quantity": 50,
+  "category": "Dishes",
+  "popular": true
+},
+{
+  "_id": {
+    "$oid": "66d58df269b2bab7655aa9fa"
+  },
+  "title": "Creamy Cheese Pasta",
+  "image_path": "populardish3.jpg",
+  "price": 1500,
+  "description": "Experience a flavor explosion with our Cuisine Creamy Cheese Pasta! This tantalizing dish features a harmonious blend of savory meats, and vibrant vegetables, all cooked to perfection.",
+  "quantity": 50,
+  "category": "Dishes",
+  "popular": true
+}]
